@@ -1,9 +1,5 @@
-# To Do (07/08/2024)
-1. varun: versatile
-2. aditya: longitudnal data analysis
-3. sathvik: image analysis
-4. anushka: biomarker detection
-
+# Title
+Detection and monitoring of Alzheimer's Disease integrating wearable technology 
 
 # Alzheimer's disease detection
 
